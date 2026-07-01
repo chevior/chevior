@@ -26,4 +26,4 @@
 - Open Source Contributions
 
 ## 📫 Contact
-Email: youremail@example.com
+Email: nchethan066@gmail.com
