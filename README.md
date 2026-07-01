@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Chethan
 
-<!--
-**chethan066-ai/chethan066-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Engineering Student
+📍 Presidency University, Bengaluru
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- 🎬 CineVerse X (Movie Ticket Booking System)
+- 📚 ComicReader (Comick Reading Platform)
+- 🤖 AI Resume Analyzer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- Python
+- Flask
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+- VS Code
+
+## 📈 Goals
+- Build production-ready projects
+- Learn System Design
+- Master Full Stack Development
+- Open Source Contributions
+
+## 📫 Contact
+Email: youremail@example.com
