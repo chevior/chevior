@@ -5,7 +5,6 @@
 
 ## 🚀 Currently Working On
 - 🎬 CineVerse X (Movie Ticket Booking System)
-- 📚 ComicReader (Comick Reading Platform)
 - 🤖 AI Resume Analyzer
 
 ## 💻 Tech Stack
