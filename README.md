@@ -103,20 +103,6 @@ const about = {
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chevior&theme=github_dark"
-  alt="Chethan's GitHub statistics"
-/>
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chevior&theme=github_dark"
-  alt="Chethan's most used repository languages"
-/>
-
-<br />
-<br />
-
-<img
   width="70%"
   src="https://github-readme-streak-stats.herokuapp.com?user=chevior&hide_border=true&border_radius=12&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E"
   alt="Chethan's GitHub streak"
