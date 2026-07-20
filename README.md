@@ -108,6 +108,8 @@ const about = {
 ### 🎨 Frontend
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite" />
@@ -115,6 +117,7 @@ const about = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=F97316)
 ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=22D3EE)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=A78BFA)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=22D3EE)
