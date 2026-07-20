@@ -104,21 +104,22 @@ const about = {
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=chevior&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chevior&theme=github_dark"
   alt="Chethan's GitHub statistics"
 />
 <img
   width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com?user=chevior&hide_border=true&border_radius=12&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E"
-  alt="Chethan's GitHub streak"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chevior&theme=github_dark"
+  alt="Chethan's most used repository languages"
 />
 
 <br />
+<br />
 
 <img
-  width="46%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevior&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-  alt="Chethan's most used repository languages"
+  width="70%"
+  src="https://github-readme-streak-stats.herokuapp.com?user=chevior&hide_border=true&border_radius=12&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E"
+  alt="Chethan's GitHub streak"
 />
 
 ### Contribution Graph
@@ -129,6 +130,7 @@ const about = {
     srcset="https://raw.githubusercontent.com/chevior/chevior/output/github-contribution-grid-snake-dark.svg"
   />
   <img
+    width="100%"
     src="https://raw.githubusercontent.com/chevior/chevior/output/github-contribution-grid-snake.svg"
     alt="Chethan's contribution graph animation"
   />
