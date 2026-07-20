@@ -2,8 +2,8 @@
   GitHub Profile README for Chethan N
   Theme: minimal dark interface with purple and cyan accents
 
-  Replace the LinkedIn and portfolio placeholders in the Connect section
-  when those public URLs are available.
+  Replace the portfolio placeholder in the Connect section when that public
+  URL is available.
 -->
 
 <div align="center">
@@ -333,16 +333,14 @@ Explore my repositories to see what I am currently building and improving.
 <a href="https://github.com/chevior">
   <img src="https://img.shields.io/badge/GitHub-chevior-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://www.linkedin.com/in/chethan-n-500530310?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chethan N on LinkedIn" />
+</a>
 <a href="mailto:nchethan066@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chethan" />
 </a>
 
 <!--
-  Replace YOUR-LINKEDIN-USERNAME and uncomment this badge:
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
   Replace YOUR-PORTFOLIO-URL and uncomment this badge:
   <a href="YOUR-PORTFOLIO-URL">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
@@ -351,7 +349,6 @@ Explore my repositories to see what I am currently building and improving.
 
 <br />
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Profile_URL-111827?style=flat-square&logo=linkedin&logoColor=22D3EE)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=flat-square&logo=vercel&logoColor=A78BFA)
 
 </div>
