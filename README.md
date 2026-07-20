@@ -97,6 +97,8 @@ const about = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="42" height="42" alt="Flask" title="Flask" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" height="42" alt="REST APIs" title="REST APIs" />
 </p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=34D399)
@@ -150,23 +152,6 @@ const about = {
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=A78BFA)
-
-### 🌱 Currently Learning
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Learning Docker" title="Learning Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" height="42" alt="Learning Redis" title="Learning Redis" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Learning Linux" title="Learning Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="54" height="42" alt="Learning AWS" title="Learning AWS" />
-</p>
-
-![Docker](https://img.shields.io/badge/Docker-Learning-7C3AED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Learning-7C3AED?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learning-7C3AED?style=flat-square&logo=linux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-7C3AED?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
