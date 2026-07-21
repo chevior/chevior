@@ -95,32 +95,33 @@ chethan = {
 
 ## Technical Toolkit
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌨️ Core Languages</h3>
-      <p>The languages I use to build application logic, interfaces, and data-driven features.</p>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML, and CSS" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <p>Responsive interfaces, component-driven experiences, and fast development workflows.</p>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, and Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend & APIs</h3>
-      <p>Python services, authentication, business logic, and structured REST API development.</p>
-      <img src="https://skillicons.dev/icons?i=flask,fastapi,python,postman&theme=dark" alt="Flask, FastAPI, Python, and Postman" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ Data & Delivery</h3>
-      <p>Relational data, version control, containerization, design, and production deployment.</p>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,figma&theme=dark" alt="PostgreSQL, MySQL, SQLite, Git, GitHub, Docker, and Figma" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" alt="Python, JavaScript, and TypeScript" />
+
+### 🌐 Web Foundations
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS" />
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, and Tailwind CSS" />
+
+### ⚙️ Backend & API Development
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postman&theme=dark" alt="Flask, FastAPI, and Postman" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, and SQLite" />
+
+### 🛠️ Development, Deployment & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Git, GitHub, Docker, Visual Studio Code, and Figma" />
+
+</div>
 
 ## Currently
 
