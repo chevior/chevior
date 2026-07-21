@@ -1,8 +1,6 @@
 <!--
-  GitHub Profile README for Chethan N (@chevior)
+  GitHub Profile README for Chethan N
   Theme: minimal dark interface with purple and cyan accents
-  "Pro Max" upgrade: richer stats row, skill icons, trophy case,
-  timeline-style project cards, and a tidier visual hierarchy.
 
   Replace the portfolio placeholder in the Connect section when that public
   URL is available.
@@ -10,112 +8,106 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:0891B2&height=200&section=header&text=Chethan%20N&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Information%20Science%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Python%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header banner" />
-
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=Building+full-stack+apps+with+Python+%26+React;Currently+learning+PostgreSQL+%2B+Docker;Preparing+for+placements+%7C+Open+to+internships;Always+building+something+new."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Chethan+N;Information+Science+Engineering+Student;Full+Stack+Developer+%7C+Python+Developer;Building+real+projects+and+learning+every+day"
     alt="Animated introduction for Chethan N"
   />
 </a>
-
-<br/>
 
 <p>
   <a href="https://github.com/chevior">
     <img src="https://img.shields.io/badge/GitHub-chevior-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/chethan-n-500530310">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nchethan066@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Bengaluru-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru, India" />
   <img src="https://komarev.com/ghpvc/?username=chevior&style=for-the-badge&color=0891b2&label=Profile+Views" alt="Profile views" />
 </p>
 
-<img src="https://img.shields.io/badge/Bengaluru-India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Bengaluru, India" />
-&nbsp;
-<img src="https://img.shields.io/badge/Goal-Software%20Engineer-0891B2?style=flat-square&logo=target&logoColor=white" alt="Goal: Software Engineer" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22D3EE?style=flat-square&logo=briefcase&logoColor=111827" alt="Open to internships" />
+<p>
+  <strong>Information Science Engineering Student · Full Stack Developer · Python Developer</strong>
+</p>
 
 </div>
 
 ---
 
-### 👋 About Me
+## About Me
 
-I'm an **Information Science Engineering student** from Bengaluru, India, working
-toward becoming a **Software Engineer**. I build full-stack applications, write
-a lot of Python, and like turning practical AI ideas into real, working
-projects — then learning whatever the project forces me to learn next.
+I'm an **Information Science Engineering student** from Bengaluru, India.
+I work on full-stack applications, enjoy developing with Python, and am
+interested in practical uses of AI. I love building real projects and learning
+new technologies that help me create better software.
+
+My current goal is to become a **Software Engineer**.
 
 ```javascript
-const chethan = {
-  role: ["ISE Student", "Full Stack Developer", "Python Developer"],
+const about = {
+  name: "Chethan N",
   location: "Bengaluru, India",
-  currentlyBuilding: ["FileHub", "CineVerseX"],
-  currentlyLearning: ["PostgreSQL", "Docker"],
-  interests: ["Backend Development", "Applied AI", "Real-World Projects"],
-  goal: "Become a Software Engineer",
-  funFact: "Ships small, ships often."
+  roles: ["ISE Student", "Full Stack Developer", "Python Developer"],
+  interests: ["Backend Development", "AI", "Real-World Projects"],
+  goal: "Become a Software Engineer"
 };
 ```
 
 ---
 
-### 🧰 Technologies & Tools
+## Technologies & Tools
 
-<div align="center">
+### 💻 Languages
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" alt="Languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=22D3EE)
 
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postman" alt="Backend" />
+### 🗄️ Databases
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html" alt="Frontend" />
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
+### ⚙️ Backend
 
-**Data & Analytics**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge&logo=swagger&logoColor=white)
 
-**Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools" />
+### 🎨 Frontend
 
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+### 📊 Data & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chevior&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevior&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img
+  width="70%"
+  src="https://github-readme-streak-stats.herokuapp.com?user=chevior&hide_border=true&border_radius=12&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E"
+  alt="Chethan's GitHub streak"
+/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=chevior&hide_border=true&border_radius=12&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E" alt="GitHub streak" />
-
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=chevior&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
-
-</div>
-
-<details>
-<summary><strong>📈 Contribution & Activity Graphs</strong></summary>
-
-<br/>
+### Contribution Graph
 
 <picture>
   <source
@@ -129,34 +121,38 @@ const chethan = {
   />
 </picture>
 
+### GitHub Activity Graph
+
 [![Chethan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chevior&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F8FAFC&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=Contribution%20Activity)](https://github.com/chevior)
 
-</details>
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### ☁️ FileHub
+### ☁️ FileHub
+
 Personal cloud storage platform for managing files through a modern web
 interface and secure API.
 
-`FastAPI` `React` `PostgreSQL`
+**Tech Stack:** FastAPI · React · PostgreSQL
 
 [![Repository](https://img.shields.io/badge/Repository-View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chevior/FileHub)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎬 CineVerseX
-Full-stack movie booking platform with movie discovery, authentication, ticket
-booking, and a refined dark/light theme toggle across the UI.
+### 🎬 CineVerseX
 
-`Python` `Flask` `MySQL`
+Full-stack movie booking platform with movie discovery, authentication, and
+ticket booking features.
+
+**Tech Stack:** Python · Flask · MySQL
 
 [![Repository](https://img.shields.io/badge/Repository-View_Project-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chevior/CineVerseX)
 
@@ -165,22 +161,23 @@ booking, and a refined dark/light theme toggle across the UI.
 <tr>
 <td width="50%" valign="top">
 
-#### 📄 AI Resume Analyzer
-Web application that analyzes resumes and provides useful skill and
-job-readiness feedback.
+### 📄 AI Resume Analyzer
 
-`Python` `Flask` `React`
+Web application that analyzes resumes and provides useful skill and job-readiness
+feedback.
+
+**Tech Stack:** Python · Flask · React
 
 [![Repository](https://img.shields.io/badge/Repository-View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chevior/AI-Resume-Analyzer)
 
 </td>
 <td width="50%" valign="top">
 
-#### 📈 Stock Price Predictor
-Data project for exploring historical market data and predicting price
-trends.
+### 📈 Stock Price Predictor
 
-`Python` `Pandas` `NumPy`
+Data project for exploring historical market data and predicting price trends.
+
+**Tech Stack:** Python · Pandas · NumPy
 
 <!-- Replace this profile link with the repository URL after publication. -->
 [![Repository](https://img.shields.io/badge/Repository-Coming_Soon-111827?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/chevior?tab=repositories)
@@ -190,11 +187,11 @@ trends.
 <tr>
 <td width="50%" valign="top">
 
-#### 📧 Spam Email Classifier
-Machine-learning project for identifying unwanted email from message
-content.
+### 📧 Spam Email Classifier
 
-`Python` `Pandas` `NumPy`
+Machine-learning project for identifying unwanted email from message content.
+
+**Tech Stack:** Python · Pandas · NumPy
 
 <!-- Replace this profile link with the repository URL after publication. -->
 [![Repository](https://img.shields.io/badge/Repository-Coming_Soon-111827?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/chevior?tab=repositories)
@@ -202,10 +199,11 @@ content.
 </td>
 <td width="50%" valign="top">
 
-#### 🔎 More Projects
-Explore my repositories to see what I'm currently building and improving.
+### More Projects
 
-`Full Stack` `Python` `Backend`
+Explore my repositories to see what I am currently building and improving.
+
+**Focus:** Full Stack · Python · Backend
 
 [![Repositories](https://img.shields.io/badge/GitHub-Explore_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chevior?tab=repositories)
 
@@ -215,33 +213,37 @@ Explore my repositories to see what I'm currently building and improving.
 
 ---
 
-### 🎯 Current Focus
+## Current Focus
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Building & Improving**
-- 🏗️ Building FileHub
-- 🎨 Improving CineVerseX
-- 🐘 Learning PostgreSQL
-- 🐳 Learning Docker
-- 📝 Preparing for placements
+### Current Focus
+
+- Building FileHub
+- Improving CineVerseX
+- Learning PostgreSQL
+- Learning Docker
+- Preparing for placements
 
 </td>
 <td width="50%" valign="top">
 
-**Open To**
-- 💼 Software engineering internships
-- 🌐 Open-source contributions
-- 🤝 Project collaboration
-- 📚 Learning opportunities
+### Open To
+
+- Software engineering internships
+- Open-source contributions
+- Project collaboration
+- Learning opportunities
 
 </td>
 </tr>
 </table>
 
 ---
+
+## Random Developer Quote
 
 <div align="center">
 
@@ -251,7 +253,7 @@ Explore my repositories to see what I'm currently building and improving.
 
 ---
 
-### 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -272,14 +274,18 @@ Explore my repositories to see what I'm currently building and improving.
   </a>
 -->
 
-<br/>
+<br />
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=flat-square&logo=vercel&logoColor=A78BFA)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:7C3AED,100:0D1117&height=100&section=footer" width="100%" alt="Footer banner" />
+---
 
 <div align="center">
-<sub><strong>Thanks for visiting my profile — always building something new.</strong></sub>
+
+### Thanks for visiting my profile.
+
+**Always building something new.**
+
 </div>
