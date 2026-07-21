@@ -78,24 +78,6 @@ chethan = {
   </tr>
 </table>
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML, and CSS" />
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask,fastapi&theme=dark" alt="React, Vite, Tailwind CSS, Flask, and FastAPI" />
-
-**Data & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,postman,vscode,figma&theme=dark" alt="MySQL, PostgreSQL, SQLite, Git, GitHub, Docker, Postman, VS Code, and Figma" />
-
-</div>
-
 ## Engineering Snapshot
 
 <div align="center">
@@ -110,6 +92,35 @@ chethan = {
   <a href="https://github.com/chevior?tab=repositories">Explore the repositories</a> ·
   <a href="https://github.com/chevior?tab=overview">View contribution activity</a>
 </div>
+
+## Technical Toolkit
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌨️ Core Languages</h3>
+      <p>The languages I use to build application logic, interfaces, and data-driven features.</p>
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML, and CSS" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend</h3>
+      <p>Responsive interfaces, component-driven experiences, and fast development workflows.</p>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, and Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & APIs</h3>
+      <p>Python services, authentication, business logic, and structured REST API development.</p>
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,python,postman&theme=dark" alt="Flask, FastAPI, Python, and Postman" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Data & Delivery</h3>
+      <p>Relational data, version control, containerization, design, and production deployment.</p>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,figma&theme=dark" alt="PostgreSQL, MySQL, SQLite, Git, GitHub, Docker, and Figma" />
+    </td>
+  </tr>
+</table>
 
 ## Currently
 
