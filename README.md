@@ -96,22 +96,20 @@ chethan = {
 
 </div>
 
-## GitHub Activity
+## Engineering Snapshot
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chevior&theme=github_dark" alt="Chethan's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chevior&theme=github_dark" alt="Languages used across Chethan's public repositories" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chevior&theme=github_dark" alt="Chethan's GitHub profile activity summary" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=chevior&hide_border=true&border_radius=10&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E" alt="Chethan's GitHub contribution streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chevior&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F8FAFC&area=true&area_color=7C3AED&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Chethan's GitHub contribution activity graph" />
+<img width="100%" src="./assets/engineering-snapshot.svg" alt="Engineering snapshot: three flagship products, two backend frameworks, three database systems, and one full-stack mission" />
 
 </div>
 
-> GitHub language statistics reflect public repository code and do not represent proficiency.
+<div align="center">
+  <sub>Meaningful portfolio signals, hosted in this repository—no rate limits or broken statistics cards.</sub>
+  <br />
+  <a href="https://github.com/chevior?tab=repositories">Explore the repositories</a> ·
+  <a href="https://github.com/chevior?tab=overview">View contribution activity</a>
+</div>
 
 ## Current Direction
 

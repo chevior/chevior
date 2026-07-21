@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-labelledby="title desc">
+  <title id="title">Chethan N engineering snapshot</title>
+  <desc id="desc">Three flagship products, two Python backend frameworks, three database systems, and one full-stack mission.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#090d14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <style>
+      .label { fill: #8b949e; font: 600 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 1.5px; }
+      .value { fill: #f8fafc; font: 700 34px 'Segoe UI', Arial, sans-serif; }
+      .caption { fill: #c9d1d9; font: 500 13px 'Segoe UI', Arial, sans-serif; }
+      .lane { fill: #a78bfa; font: 700 12px 'Segoe UI', Arial, sans-serif; letter-spacing: 1px; }
+      .detail { fill: #dbe4f0; font: 500 14px 'Segoe UI', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="398" rx="18" fill="url(#surface)" stroke="#30363d"/>
+  <circle cx="105" cy="-8" r="120" fill="#7c3aed" opacity=".14" filter="url(#glow)"/>
+  <circle cx="835" cy="400" r="120" fill="#0891b2" opacity=".12" filter="url(#glow)"/>
+  <rect x="30" y="28" width="5" height="28" rx="2.5" fill="url(#accent)"/>
+  <text x="50" y="43" fill="#f8fafc" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700">ENGINEERING SNAPSHOT</text>
+  <text x="50" y="61" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="11" letter-spacing="1.2">BUILDING PRODUCTS FROM INTERFACE TO DATABASE</text>
+  <circle cx="847" cy="42" r="5" fill="#22d3ee"/>
+  <text x="833" y="46" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="11" text-anchor="end">ACTIVE</text>
+
+  <g transform="translate(30 91)">
+    <rect width="195" height="108" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="27" class="label">FLAGSHIP BUILDS</text>
+    <text x="18" y="68" class="value">03</text>
+    <text x="68" y="62" class="caption">real products</text>
+    <text x="18" y="91" fill="#22d3ee" font-family="'Segoe UI', Arial, sans-serif" font-size="11">CineVerseX · FileHub · AI Resume</text>
+  </g>
+  <g transform="translate(245 91)">
+    <rect width="195" height="108" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="27" class="label">BACKEND ENGINES</text>
+    <text x="18" y="68" class="value">02</text>
+    <text x="68" y="62" class="caption">Python frameworks</text>
+    <text x="18" y="91" fill="#a78bfa" font-family="'Segoe UI', Arial, sans-serif" font-size="11">Flask · FastAPI</text>
+  </g>
+  <g transform="translate(460 91)">
+    <rect width="195" height="108" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="27" class="label">DATA SYSTEMS</text>
+    <text x="18" y="68" class="value">03</text>
+    <text x="68" y="62" class="caption">SQL databases</text>
+    <text x="18" y="91" fill="#22d3ee" font-family="'Segoe UI', Arial, sans-serif" font-size="11">PostgreSQL · MySQL · SQLite</text>
+  </g>
+  <g transform="translate(675 91)">
+    <rect width="195" height="108" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="27" class="label">CORE MISSION</text>
+    <text x="18" y="68" class="value">01</text>
+    <text x="68" y="62" class="caption">full-stack focus</text>
+    <text x="18" y="91" fill="#a78bfa" font-family="'Segoe UI', Arial, sans-serif" font-size="11">Useful · Reliable · Shippable</text>
+  </g>
+
+  <g transform="translate(30 224)">
+    <rect width="840" height="142" rx="13" fill="#0d1117" stroke="#30363d"/>
+    <line x1="126" y1="0" x2="126" y2="142" stroke="#21262d"/>
+    <line x1="0" y1="47" x2="840" y2="47" stroke="#21262d"/>
+    <line x1="0" y1="94" x2="840" y2="94" stroke="#21262d"/>
+    <text x="18" y="29" class="lane">BUILD</text>
+    <text x="146" y="29" class="detail">Python · JavaScript · TypeScript · React · Flask · FastAPI</text>
+    <circle cx="810" cy="24" r="4" fill="#a78bfa"/>
+    <text x="18" y="76" class="lane">DATA</text>
+    <text x="146" y="76" class="detail">SQLAlchemy · PostgreSQL · MySQL · SQLite · REST APIs</text>
+    <circle cx="810" cy="71" r="4" fill="#22d3ee"/>
+    <text x="18" y="123" class="lane">SHIP</text>
+    <text x="146" y="123" class="detail">Git · GitHub · Docker · Render · Production-minded workflows</text>
+    <circle cx="810" cy="118" r="4" fill="#a78bfa"/>
+  </g>
+  <rect x="30" y="384" width="840" height="2" rx="1" fill="url(#accent)" opacity=".75"/>
+</svg>
