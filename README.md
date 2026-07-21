@@ -99,27 +99,64 @@ chethan = {
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" alt="Python, JavaScript, and TypeScript" />
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+  </tr>
+</table>
 
 ### 🌐 Web Foundations
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS" />
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
+  </tr>
+</table>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, and Tailwind CSS" />
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" alt="Vite" /><br /><sub><b>Vite</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+  </tr>
+</table>
 
 ### ⚙️ Backend & API Development
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postman&theme=dark" alt="Flask, FastAPI, and Postman" />
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" alt="Flask" /><br /><sub><b>Flask</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, and SQLite" />
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" alt="SQLite" /><br /><sub><b>SQLite</b></sub></td>
+  </tr>
+</table>
 
 ### 🛠️ Development, Deployment & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Git, GitHub, Docker, Visual Studio Code, and Figma" />
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
