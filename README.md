@@ -99,64 +99,39 @@ chethan = {
 
 ### 💻 Programming Languages
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python" /><br /><sub><b>Python</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" alt="Python, JavaScript, and TypeScript" />
+<br />
+<sub><b>Python</b> &nbsp;·&nbsp; <b>JavaScript</b> &nbsp;·&nbsp; <b>TypeScript</b></sub>
 
 ### 🌐 Web Foundations
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML5 and CSS3" />
+<br />
+<sub><b>HTML5</b> &nbsp;·&nbsp; <b>CSS3</b></sub>
 
 ### 🎨 Frontend Development
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" /><br /><sub><b>React</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" alt="Vite" /><br /><sub><b>Vite</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, and Tailwind CSS" />
+<br />
+<sub><b>React</b> &nbsp;·&nbsp; <b>Vite</b> &nbsp;·&nbsp; <b>Tailwind CSS</b></sub>
 
 ### ⚙️ Backend & API Development
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" alt="Flask" /><br /><sub><b>Flask</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postman&theme=dark" alt="Flask, FastAPI, and Postman" />
+<br />
+<sub><b>Flask</b> &nbsp;·&nbsp; <b>FastAPI</b> &nbsp;·&nbsp; <b>Postman</b></sub>
 
 ### 🗄️ Databases
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" alt="SQLite" /><br /><sub><b>SQLite</b></sub></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, and SQLite" />
+<br />
+<sub><b>PostgreSQL</b> &nbsp;·&nbsp; <b>MySQL</b> &nbsp;·&nbsp; <b>SQLite</b></sub>
 
 ### 🛠️ Development, Deployment & Design
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" /><br /><sub><b>Git</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Git, GitHub, Docker, Visual Studio Code, and Figma" />
+<br />
+<sub><b>Git</b> &nbsp;·&nbsp; <b>GitHub</b> &nbsp;·&nbsp; <b>Docker</b> &nbsp;·&nbsp; <b>VS Code</b> &nbsp;·&nbsp; <b>Figma</b></sub>
 
 </div>
 
