@@ -105,23 +105,57 @@ chethan = {
 </div>
 
 <div align="center">
-  <sub>Meaningful portfolio signals, hosted in this repository—no rate limits or broken statistics cards.</sub>
+  <sub>A focused view of the technologies and product work behind my repositories.</sub>
   <br />
   <a href="https://github.com/chevior?tab=repositories">Explore the repositories</a> ·
   <a href="https://github.com/chevior?tab=overview">View contribution activity</a>
 </div>
 
-## Current Direction
+## Currently
 
-| Now | Next |
-| --- | --- |
-| Improving project reliability and UX | Containerizing projects with Docker |
-| Building cleaner backend services | Contributing to open source |
-| Strengthening SQL and PostgreSQL | Preparing for software engineering roles |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚡ Shipping</h3>
+      <p>Improving reliability, usability, and end-to-end workflows across my flagship projects.</p>
+      <p><code>CineVerseX</code> <code>FileHub</code> <code>AI Resume</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧭 Leveling Up</h3>
+      <p>Going deeper into system design, containerization, PostgreSQL, testing, and production deployment.</p>
+      <p><code>Docker</code> <code>Architecture</code> <code>DevOps</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 Open To</h3>
+      <p>Software engineering internships, open-source contributions, and thoughtful project collaborations.</p>
+      <p><code>Internships</code> <code>Open Source</code> <code>Teams</code></p>
+    </td>
+  </tr>
+</table>
 
-## Let's Connect
+## How I Work
+
+```text
+01  Understand the problem      →  Start with the user and the real constraint
+02  Design the smallest system  →  Keep the architecture clear and maintainable
+03  Build the complete flow     →  Connect interface, API, data, and deployment
+04  Test, learn, improve        →  Treat every release as the next iteration
+```
+
+> I care about software that is useful first, understandable second, and impressive because it works.
+
+## Let's Build Something Useful
 
 <div align="center">
+
+<p>
+  Have an internship, open-source idea, or project worth building?<br />
+  I would be glad to hear about it.
+</p>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-22D3EE?style=for-the-badge&labelColor=111827" alt="Open to opportunities" />
+
+<br /><br />
 
 <a href="https://github.com/chevior"><img src="https://img.shields.io/badge/GitHub-chevior-111827?style=for-the-badge&logo=github&logoColor=white" alt="Chethan on GitHub" /></a>
 <a href="https://www.linkedin.com/in/chethan-n-500530310"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chethan on LinkedIn" /></a>
@@ -129,6 +163,6 @@ chethan = {
 
 <br /><br />
 
-<sub>Thanks for stopping by — I am always learning, building, and improving.</sub>
+<sub>Thanks for visiting · Bengaluru, India · Always learning, building, and improving</sub>
 
 </div>
